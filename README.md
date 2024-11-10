@@ -2,14 +2,10 @@
 
 <div align="center">
   
+  <img width="956" alt="output" src="https://github.com/user-attachments/assets/7bbe58b3-b345-4110-944a-98a49b7cc8ad">
 
-  
 </div>
 
-
-<p align="center">
-  <img src="./path-to-image.png" alt="Digital Clock" width="300"/>
-</p>
 
 ## Description
 
